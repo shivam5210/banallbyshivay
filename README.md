@@ -14,3 +14,4 @@
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+Start.py Shivay
